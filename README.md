@@ -5,4 +5,4 @@
 
 实现效果如下：
 
-![](https://github.com/viclee2014/BarrageView/blob/master/app/src/main/res/raw/flowlayout.png)
+![image](https://github.com/viclee2014/BarrageView/blob/master/app/src/main/res/raw/flowlayout.png)
